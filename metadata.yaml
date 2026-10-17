@@ -1,0 +1,7 @@
+name: astrbot_plugin_mcmod_search
+display_name: MC百科搜索
+desc: 发送 "MC百科搜索+内容" 搜索 MC百科，使用 AstrBot 官方 HTML 渲染生成搜索列表和详情卡片，支持编号选择并发送页面链接。
+short_desc: 搜索MC百科并生成详情卡片
+version: v1.0.4
+author: AlancoSage
+repo: https://github.com/AlancoSage/astrbot_plugin_mcmod_search

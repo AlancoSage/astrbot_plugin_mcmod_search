@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.mimocode/
+AGENTS.md
+*.zip
+.venv/
+venv/
+.env
+.env.*
+data/
+test_list.html
+test_list.png
